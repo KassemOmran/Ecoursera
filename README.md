@@ -1,12 +1,10 @@
-﻿# Ecoursera
-eCourse is a modern, responsive, full-stack e-learning platform built with:<br>
-React.js (Frontend)<br>
-Laravel (Backend API)<br>
-Axios (API Client)<br>
-React Router (Navigation)<br>
-Context API (Auth & Course State Management)<br>
-<br>
-Users can:<br>
+
+# Ecoursera E-Learning Platform
+
+A full-stack platform that allows instructors to create courses and students to learn through videos, quizzes, and certificates.
+
+## Features
+
 - Browse courses<br>
 - Filter by categories<br>
 - View course details<br>
@@ -17,6 +15,43 @@ Users can:<br>
 - Create courses (instructor mode)<br>
 - Login / Register<br>
 - Manage profile<br>
+
+## Tech Stack
+
+### Frontend
+- React
+- Axios
+- Bootstrap
+
+### Backend
+- Laravel
+- REST API
+
+### Database
+- MySQL
+
+
+## Installation
+
+### Backend
+
+```bash
+git clone https://github.com/username/project.git
+cd backend
+composer install
+php artisan migrate
+php artisan serve
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+
 
 
 
