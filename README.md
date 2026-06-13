@@ -7,16 +7,16 @@ React Router (Navigation)<br>
 Context API (Auth & Course State Management)<br>
 <br>
 Users can:<br>
-✔ Browse courses<br>
-✔ Filter by categories<br>
-✔ View course details<br>
-✔ Watch lessons<br>
-✔ Take quizzes<br>
-✔ Track progress<br>
-✔ Download certificates<br>
-✔ Create courses (instructor mode)<br>
-✔ Login / Register<br>
-✔ Manage profile<br>
+- Browse courses<br>
+- Filter by categories<br>
+- View course details<br>
+- Watch lessons<br>
+- Take quizzes<br>
+- Track progress<br>
+- Download certificates<br>
+- Create courses (instructor mode)<br>
+- Login / Register<br>
+- Manage profile<br>
 
 
 
